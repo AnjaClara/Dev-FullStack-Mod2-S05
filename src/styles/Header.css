@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background-color: #00537a42;
+}
+
+h3 {
+  color: #3c4043;
+  margin-right: 20px;
+}

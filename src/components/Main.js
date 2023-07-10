@@ -2,6 +2,7 @@ import React from "react";
 import icon from "../images/icon.png";
 import Button from "./Button";
 import Input from "./Input";
+import "../styles/Main.css"
 
 function Main(){
 
